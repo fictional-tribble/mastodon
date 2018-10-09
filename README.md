@@ -1,6 +1,8 @@
 ![Mastodon](https://i.imgur.com/NhZc40l.png)
 ========
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/mastodon.svg)](https://www.staging.guardrails.io)
+
 [![Build Status](https://img.shields.io/circleci/project/github/tootsuite/mastodon.svg)][circleci]
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/tootsuite/mastodon.svg)][code_climate]
 [![Translation status](https://weblate.joinmastodon.org/widgets/mastodon/-/svg-badge.svg)][weblate]
